@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : linearparallel.c
- Author      : abduh dong
+ Author      : abduh
  Version     :
  Copyright   : Your copyright notice
  Description : Calculate Pi in MPI
